@@ -18,7 +18,7 @@
 
 ***
 
-## How to finish tasks?
+## How to finish the tasks?
 
 Read [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
@@ -39,7 +39,7 @@ Read the `Task Description Section` to know more about the tasks.
 There will be a webinar each weekend which you can use as a kicstart to the topic of the week.
 Try to complete the tasks allotted each week.
 
-## Resources
+## Resources Links
 
 1. [HTML and CSS by Jon Duckett](https://wtf.tw/ref/duckett.pdf)
 2. [W3Schools - HTML](https://www.w3schools.com/html/)
